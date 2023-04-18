@@ -37,7 +37,7 @@ const Main = () => {
               }}
             />
           </h2>
-          <div className="flex justify-between max-w-[200px] w-full mt-6">
+          <div className="flex justify-between max-w-[200px] w-full mt-6 sm:mt-10">
             <a href="https://twitter.com/Angve3" target="_blank">
               <FaTwitter
                 className="cursor-pointer fill-amber-500/70 hover:scale-110 ease-in duration-300"
