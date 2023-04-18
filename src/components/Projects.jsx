@@ -6,10 +6,30 @@ import forkifyImg from "../assets/Forkify.jpg";
 import natoursImg from "../assets/Tours.jpg";
 
 const projectsData = [
-  { img: mealsImg, title: "Food-App", tech: ["React JS"] },
-  { img: forkifyImg, title: "Recipe-App", tech: ["JavaScript"] },
-  { img: bookmartImg, title: "Store-App", tech: ["React JS/Redux TK"] },
-  { img: natoursImg, title: "Travel-App", tech: ["HTML/SASS"] },
+  {
+    img: mealsImg,
+    title: "Food-App",
+    tech: ["React JS"],
+    href: "https://github.com/DmitriyAngve/Food-App-React",
+  },
+  {
+    img: forkifyImg,
+    title: "Recipe-App",
+    tech: ["JavaScript"],
+    href: "https://github.com/DmitriyAngve/JS-Forkify",
+  },
+  {
+    img: bookmartImg,
+    title: "Store-App",
+    tech: ["React JS/Redux"],
+    href: "https://github.com/DmitriyAngve/Shop-Redux",
+  },
+  {
+    img: natoursImg,
+    title: "Travel-App",
+    tech: ["HTML/SASS"],
+    href: "https://github.com/DmitriyAngve/Natours",
+  },
 ];
 
 const Projects = () => {
@@ -28,6 +48,7 @@ const Projects = () => {
             img={project.img}
             title={project.title}
             tech={project.tech}
+            href={project.href}
           />
         ))}
       </div>
