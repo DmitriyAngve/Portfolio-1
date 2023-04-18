@@ -7,7 +7,7 @@ const Main = () => {
     <div id="main">
       <img
         className="w-full h-screen object-cover object-left"
-        src="/mitch-mckee-Qhe9I6PhhZs-unsplash.jpg"
+        src="https://images.unsplash.com/photo-1508520255100-c7c05dfdb354?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
         alt=""
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/10">
