@@ -14,7 +14,7 @@ This is my personal portfolio showcasing my projects, skills, and information ab
 
 ## Follow these steps to set up and run the project locally:
 
-1. Clone the repository:
+#### Clone the repository:
 ```bash
    git clone https://github.com/DmitriyAngve/Portfolio-1
 ```
