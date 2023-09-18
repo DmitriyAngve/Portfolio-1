@@ -16,7 +16,7 @@ This is my personal portfolio showcasing my projects, skills, and information ab
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-user/portfolio.git
+   git clone https://github.com/DmitriyAngve/Portfolio-1
 ```
 2. Navigate to the project directory:
 ```bash
