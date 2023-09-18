@@ -2,7 +2,7 @@
 
 This is my personal portfolio showcasing my projects, skills, and information about me. The website is built using React, Vite JS, and Tailwind CSS. The site is fully responsive and looks great on all devices, including mobile phones and tablets.
 
-[Explore the Live Demo](https://threejs-angve.netlify.app/)
+[Explore the Live Demo](https://portfolio-angve.netlify.app/)
 
 ## Technologies Used
 
