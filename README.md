@@ -18,15 +18,15 @@ This is my personal portfolio showcasing my projects, skills, and information ab
 ```bash
    git clone https://github.com/DmitriyAngve/Portfolio-1
 ```
-2. Navigate to the project directory:
+#### Navigate to the project directory:
 ```bash
   cd portfolio
 ```
-3. Install dependencies:
+#### Install dependencies:
 ```bash
   npm install
 ```
-4. Start the development server:
+#### Start the development server:
 ```bash
   npm run dev
 ``` 
