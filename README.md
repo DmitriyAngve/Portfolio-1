@@ -4,12 +4,29 @@ This is my personal portfolio showcasing my projects, skills, and information ab
 
 [Live Demo](https://threejs-angve.netlify.app/)
 
-## Features
+## Technologies Used
 
 - **React**: The site is developed using the React library, providing fast and scalable data rendering.
-
 - **Vite JS**: Vite JS is used for project building and development, ensuring rapid development and loading speeds.
-
 - **Tailwind CSS**: Tailwind CSS is used for styling the website, allowing for easy customization and design extension.
-
 - **Responsive Design**: The site is fully responsive and looks great on all devices, including mobile phones and tablets.
+
+
+## Follow these steps to set up and run the project locally:
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/your-user/portfolio.git
+```
+2. Navigate to the project directory:
+```bash
+  cd portfolio
+```
+3. Install dependencies:
+```bash
+  npm install
+```
+4. Start the development server:
+```bash
+  npm run dev
+``` 
