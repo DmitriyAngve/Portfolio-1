@@ -30,6 +30,18 @@ const projectsData = [
     tech: ["HTML/SASS"],
     href: "https://github.com/DmitriyAngve/Natours",
   },
+  {
+    img: natoursImg,
+    title: "Travel-App",
+    tech: ["HTML/SASS"],
+    href: "https://github.com/DmitriyAngve/Natours",
+  },
+  {
+    img: natoursImg,
+    title: "Travel-App",
+    tech: ["HTML/SASS"],
+    href: "https://github.com/DmitriyAngve/Natours",
+  },
 ];
 
 const Projects = () => {
