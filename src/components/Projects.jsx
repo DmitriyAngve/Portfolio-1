@@ -1,43 +1,45 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import mealsImg from "../assets/ReactMeals.jpg";
-import bookmartImg from "../assets/Bookmart.jpg";
-import forkifyImg from "../assets/Forkify.jpg";
-import natoursImg from "../assets/Tours.jpg";
+import BlogAI from "../assets/BlogAI.png";
+import Dashboard from "../assets/Dashboard.png";
+import DiscordClone from "../assets/Discord-Clone.png";
+import LMSproject from "../assets/LMSproject.png";
+import ThreeJs from "../assets/LMS-project.png";
+import SASS from "../assets/SAAS-AI.png";
 
 const projectsData = [
   {
-    img: mealsImg,
+    img: BlogAI,
     title: "Food-App",
     tech: ["React JS"],
     href: "https://github.com/DmitriyAngve/Food-App-React",
   },
   {
-    img: forkifyImg,
+    img: Dashboard,
     title: "Recipe-App",
     tech: ["JavaScript"],
     href: "https://github.com/DmitriyAngve/JS-Forkify",
   },
   {
-    img: bookmartImg,
+    img: DiscordClone,
     title: "Store-App",
     tech: ["React JS/Redux"],
     href: "https://github.com/DmitriyAngve/Shop-Redux",
   },
   {
-    img: natoursImg,
+    img: LMSproject,
     title: "Travel-App",
     tech: ["HTML/SASS"],
     href: "https://github.com/DmitriyAngve/Natours",
   },
   {
-    img: natoursImg,
+    img: ThreeJs,
     title: "Travel-App",
     tech: ["HTML/SASS"],
     href: "https://github.com/DmitriyAngve/Natours",
   },
   {
-    img: natoursImg,
+    img: SASS,
     title: "Travel-App",
     tech: ["HTML/SASS"],
     href: "https://github.com/DmitriyAngve/Natours",
