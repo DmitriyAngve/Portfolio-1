@@ -3,8 +3,11 @@ import ProjectItem from "./ProjectItem";
 import BlogAI from "../assets/BlogAI.png";
 import Dashboard from "../assets/Dashboard.png";
 import DiscordClone from "../assets/Discord-Clone.png";
+
 import LMSproject from "../assets/LMS-project.png";
+
 import ThreeJs from "../assets/ThreeJs.png";
+
 import SASS from "../assets/SAAS-AI.png";
 
 const projectsData = [
