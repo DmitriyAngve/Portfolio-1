@@ -12,13 +12,13 @@ import SASS from "../assets/SAAS-AI.jpg";
 const projectsData = [
   {
     img: BlogAI,
-    title: "Blog with AI-generated content",
+    title: "AI Blog",
     tech: ["NextJS/TypeScript"],
     href: "https://github.com/DmitriyAngve/blog-ai",
   },
   {
     img: Dashboard,
-    title: "Finance Dashboard",
+    title: "Dashboard",
     tech: ["MERN Stack"],
     href: "https://github.com/DmitriyAngve/Dashboard",
   },
@@ -42,7 +42,7 @@ const projectsData = [
   },
   {
     img: SASS,
-    title: "SAAS AI Platform",
+    title: "SAAS Platform",
     tech: ["NextJS/TypeScript"],
     href: "https://github.com/DmitriyAngve/sass-ai",
   },
