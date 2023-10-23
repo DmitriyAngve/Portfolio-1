@@ -57,7 +57,7 @@ const Projects = () => {
       <h1 className="text-4xl font-bold text-center text-[#273558] mb-6">
         Projects
       </h1>
-      <div className="grid sm:grid-cols-2 gap-12">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-12">
         {projectsData.map((project, index) => (
           <ProjectItem
             key={index}
