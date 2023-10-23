@@ -5,9 +5,9 @@ const data = [
   {
     year: 2022,
     title: "Frontend Developer",
-    duration: "1 year",
+    duration: "over 1 year",
     details:
-      "Worked on various projects using technologies such as SAAS, Tailwind, React, Redux Toolkit, Nextjs, Firebase and other related technologies.",
+      "Worked on various projects using technologies such as JavaScript, TypeScript, React, Vue 3, SAAS/SCSS, Tailwind, Redux Toolkit, Zustand, ThreeJS, Framer Motion, Nextjs, MySQL, MongoDB, Node.JS, Express, Websockets, Socket.io, Webhooks and other related technologies.",
   },
   {
     year: 2011,
