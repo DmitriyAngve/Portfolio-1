@@ -14,39 +14,47 @@ const projectsData = [
     img: BlogAI,
     title: "AI Blog",
     tech: ["NextJS/TypeScript"],
-    href: "https://github.com/DmitriyAngve/blog-ai",
+    gitHub: "https://github.com/DmitriyAngve/blog-ai",
+    href: "",
   },
   {
     img: Dashboard,
     title: "Dashboard",
     tech: ["MERN Stack"],
-    href: "https://github.com/DmitriyAngve/Dashboard",
+    gitHub: "https://github.com/DmitriyAngve/Dashboard",
   },
   {
     img: DiscordClone,
     title: "Discord Clone",
     tech: ["NextJS/TypeScript"],
-    href: "https://github.com/DmitriyAngve/discord",
+    gitHub: "https://github.com/DmitriyAngve/discord",
   },
   {
     img: LMSproject,
     title: "LMS Project",
     tech: ["NextJS/TypeScript"],
-    href: "https://github.com/DmitriyAngve/lms-project",
+    gitHub: "https://github.com/DmitriyAngve/lms-project",
   },
   {
     img: ThreeJs,
-    title: "AI 3D Website",
+    title: "3D T-shirt",
     tech: ["React/ThreeJS/Express"],
-    href: "https://github.com/DmitriyAngve/threejs",
+    gitHub: "https://github.com/DmitriyAngve/threejs",
   },
   {
     img: SASS,
     title: "SAAS Platform",
     tech: ["NextJS/TypeScript"],
-    href: "https://github.com/DmitriyAngve/sass-ai",
+    gitHub: "https://github.com/DmitriyAngve/sass-ai",
   },
 ];
+
+const smallProjects = {
+  img: "",
+  title: "",
+  tech: "",
+  gitHub: "",
+};
 
 const Projects = () => {
   return (
@@ -64,7 +72,7 @@ const Projects = () => {
             img={project.img}
             title={project.title}
             tech={project.tech}
-            href={project.href}
+            gitHub={project.gitHub}
           />
         ))}
       </div>
